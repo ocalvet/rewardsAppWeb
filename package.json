@@ -1,0 +1,16 @@
+{
+  "name": "nodeTestProject",
+  "version": "1.0.0",
+  "description": "A test api project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "api",
+    "node"
+  ],
+  "author": "Ovidio R. Calvet",
+  "license": "ISC"
+}
